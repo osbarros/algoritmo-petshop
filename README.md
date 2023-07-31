@@ -23,7 +23,7 @@ O objetivo é encontrar o petshop que oferece o menor valor total para o banho d
 
 4 - Cálculo de Valor: é assumido que os cálculos de valor realizados para cada petshop estão corretos, de acordo com as regras estabelecidas para os preços de banho, levando em consideração a quantidade de cães pequenos e grandes, bem como a condição de ser ou não final de semana.
 
-5 - Ambiente de Execução: Assume-se que o ambiente em que o código será executado possui o Python instalado.
+5 - Ambiente de Execução: assume-se que o ambiente em que o código será executado possui o Python instalado.
 
 
 # Decisões de Projeto
