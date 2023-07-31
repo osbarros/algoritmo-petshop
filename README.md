@@ -53,6 +53,7 @@ Foram realizados testes unitários para garantir a corretude e a robustez da sol
 Essas decisões de projeto resultaram em uma solução eficiente, confiável e de fácil manutenção para o problema passado.
 
 # Instruções para executar o sistema: 
+Deve-se, primeiramente, clonar o repositório pelo github ou baixar os arquivos zip.
 ## Opção 1:
 - Verifique se o Python está instalado na sua máquina.
 - Em algum editor de código, navegue até o diretório onde os arquivos Python estão localizados.
@@ -64,6 +65,7 @@ Essas decisões de projeto resultaram em uma solução eficiente, confiável e d
 - Clique em “Run” para executar o sistema
 
 # Instruções para executar os testes unitários:
+Deve-se, primeiramente, clonar o repositório pelo github ou baixar os arquivos zip.
 ## Opção 1:
 - Verifique se o Python está instalado na sua máquina.
 - Em algum editor de código, navegue até o diretório onde os arquivos Python estão localizados.
